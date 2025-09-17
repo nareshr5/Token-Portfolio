@@ -1,3 +1,7 @@
+update:
+trying out the responsive design
+
+
 MOCK DATA:
 [
   {
