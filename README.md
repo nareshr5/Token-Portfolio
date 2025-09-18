@@ -1,5 +1,5 @@
 update:
-trying out the responsive design
+trying out the responsive design (for mobile view it is suggested to use "sm")
 
 
 MOCK DATA:
