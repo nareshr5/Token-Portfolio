@@ -1,6 +1,6 @@
 update:
 trying out the responsive design (for mobile view it is suggested to use "sm")
-but when tried it is not producing responsive design as expected
+but when tried it is not producing responsive design as expected (working on differrent screen size)
 
 
 MOCK DATA:
